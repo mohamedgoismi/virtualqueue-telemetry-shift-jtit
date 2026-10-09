@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this software or its archived synthetic results, please cite the Zenodo software release once its DOI is available."
+type: software
+title: "VirtualQueue: reproducible FIFO packet-feedback and telemetry-shift experiments"
+authors:
+  - family-names: Goismi
+    given-names: Mohamed
+    affiliation: "Department of Science and Technology, University Ibn Khaldoun, Tiaret, Algeria"
+  - family-names: Maaskri
+    given-names: Moustafa
+    affiliation: "Department of Computer Science, University Ibn Khaldoun, Tiaret, Algeria"
+  - family-names: Meghazi
+    given-names: Hadj Madani
+    affiliation: "Department of Computer Science, University Ibn Khaldoun, Tiaret, Algeria"
+  - family-names: Debbab
+    given-names: Mohamed
+    affiliation: "Department of Science and Technology, University Ibn Khaldoun, Tiaret, Algeria"
+  - family-names: Seghier
+    given-names: Djamal
+    affiliation: "Department of Computer Science, University Ibn Khaldoun, Tiaret, Algeria"
+version: 0.1.0
+license: MIT
+keywords:
+  - queue inference
+  - delayed packet feedback
+  - telemetry shift
+  - reproducible simulation
+  - latency violation
