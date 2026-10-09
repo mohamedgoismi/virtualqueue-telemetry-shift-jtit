@@ -1,0 +1,16 @@
+{
+  "provenance": "secondary experiments executed on synthetic generator, not NR data",
+  "python": "3.13.5",
+  "sklearn": "1.8.0",
+  "numpy": "2.3.5",
+  "pandas": "2.2.3",
+  "sha256": {
+    "code/label_free_proxy_baseline.py": "f63cf63d374ec5e6f97ffbbf3ca84ee8427a281b5b4850a54181a24220fa33a6",
+    "code/factor_holdout.py": "bc133b8d4a460e85a069cea3aa2f64ed8ad06fc86bf7c6f6d88ca932d2933004",
+    "code/cross_regime_transfer.py": "04132292ed15e305e4a41b81410022a9d7fbe0ad8b872f9ef65d3761b2d49b5a",
+    "results/label_free_pressure.csv": "8b804262d924bd543653c2cf11e75fed0afe2fa207d0fb9f46a6f8e7b6679ef3",
+    "results/factor_holdout.csv": "5b27567e0b3873e38e3e677275a0af329fe03d014e61858d41cb9c323a5f82b5",
+    "results/cross_regime_transfer.csv": "671b7758f0010fdc47fb17c6ad713651bdcf4bab4e4f0d885ad46dea1a8958c2",
+    "main.tex": "5661d49d0a5d842fe4c468ad2c3b58a0b6397ffd0248bbae9b2561b0226f9c2d"
+  }
+}

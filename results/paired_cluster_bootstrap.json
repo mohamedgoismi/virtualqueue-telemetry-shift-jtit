@@ -1,0 +1,9 @@
+{
+  "method": "paired scenario-cluster bootstrap on nonoverlapping 4-fold test predictions; 400 resamples; within-scenario packet dependence preserved",
+  "valid_resamples": 400,
+  "median": 0.008362129009401975,
+  "CI_95": [
+    0.0023699553469032388,
+    0.023201510600223227
+  ]
+}

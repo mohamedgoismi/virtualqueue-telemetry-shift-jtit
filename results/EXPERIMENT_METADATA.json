@@ -1,0 +1,16 @@
+{
+  "data": "single SYNTHETIC FIFO simulator, not 5G NR",
+  "validation": "4 GroupKFold across 72 configurations, 18 held out at a time, 12 of 54 training-side scenarios reserved for validation and NOT used for tuning; 42 train",
+  "comparisons": "LR and HGB prespecified, not tuned; baseline queueing rules include idealized average service estimated from training-only low latency quantile",
+  "mixed": "exact same number of training packets as single regime, each packet assigned one of several simulated telemetry variants",
+  "heldout_telemetry": "20-ms lag omitted entirely during mixed training; tested only at eval",
+  "bootstrap": {
+    "method": "paired scenario-cluster bootstrap on nonoverlapping 4-fold test predictions; 400 resamples; within-scenario packet dependence preserved",
+    "valid_resamples": 400,
+    "median": 0.008362129009401975,
+    "CI_95": [
+      0.0023699553469032388,
+      0.023201510600223227
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+fold,baseline,average_precision
+0,Last reported delay,0.8009268801322188
+0,Reported delay EWMA,0.8007600133562334
+1,Last reported delay,0.9586512827097448
+1,Reported delay EWMA,0.936033533569116
+2,Last reported delay,0.9510323337762774
+2,Reported delay EWMA,0.9431081109381996
+3,Last reported delay,0.8709502749949808
+3,Reported delay EWMA,0.8434625442584526

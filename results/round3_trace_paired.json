@@ -1,0 +1,8 @@
+{
+  "n_traces": 10,
+  "LR_history_minus_count_mean": 0.04231578535111221,
+  "LR_history_minus_count_min": 0.015530296521555909,
+  "LR_history_minus_context_mean": 0.1570614739286153,
+  "LR_history_minus_context_min": 0.08542718855116138,
+  "note": "Paired over independent RNG traces, but still from same simulator family and related group-design."
+}

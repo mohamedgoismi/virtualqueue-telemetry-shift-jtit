@@ -1,0 +1,16 @@
+{
+  "n_packets": 21600,
+  "n_scenarios": 72,
+  "n_episodes": 144,
+  "queue_workload_cap_ms": 65,
+  "frac_workload_state_clipped": 0.020787037037037038,
+  "frac_nominal_utilization_above_one": 0.2048611111111111,
+  "max_nominal_utilization": 4.554438337504829,
+  "violation_prevalence_at_thresholds_ms": {
+    "8": 0.2386111111111111,
+    "12": 0.16643518518518519,
+    "16": 0.13847222222222222,
+    "20": 0.12069444444444444
+  },
+  "warning": "These are diagnostics of a stylized single-server synthetic simulator, not field radio observations."
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "variant": "complete",
+    "eligible_reports": 19630,
+    "feature_rows": 21600,
+    "timing_rule": "completion+reporting_lag<=current_arrival"
+  },
+  {
+    "variant": "delay_2ms",
+    "eligible_reports": 19443,
+    "feature_rows": 21600,
+    "timing_rule": "completion+reporting_lag<=current_arrival"
+  },
+  {
+    "variant": "delay_8ms",
+    "eligible_reports": 18919,
+    "feature_rows": 21600,
+    "timing_rule": "completion+reporting_lag<=current_arrival"
+  },
+  {
+    "variant": "delay_20ms",
+    "eligible_reports": 17840,
+    "feature_rows": 21600,
+    "timing_rule": "completion+reporting_lag<=current_arrival"
+  },
+  {
+    "variant": "sample_every_4",
+    "eligible_reports": 4959,
+    "feature_rows": 21600,
+    "timing_rule": "completion+reporting_lag<=current_arrival"
+  },
+  {
+    "variant": "sample_every_8",
+    "eligible_reports": 2526,
+    "feature_rows": 21600,
+    "timing_rule": "completion+reporting_lag<=current_arrival"
+  },
+  {
+    "variant": "missing_30pct",
+    "eligible_reports": 13730,
+    "feature_rows": 21600,
+    "timing_rule": "completion+reporting_lag<=current_arrival"
+  },
+  {
+    "variant": "quantized_4ms",
+    "eligible_reports": 19630,
+    "feature_rows": 21600,
+    "timing_rule": "completion+reporting_lag<=current_arrival"
+  }
+]

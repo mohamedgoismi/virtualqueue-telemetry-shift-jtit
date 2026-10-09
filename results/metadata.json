@@ -1,0 +1,19 @@
+{
+  "label": "SYNTHETIC_QUEUEING_PILOT_NOT_NR",
+  "generator_seed": 20261009,
+  "split_seeds": [
+    42,
+    52,
+    72
+  ],
+  "scenarios": 72,
+  "episodes": 144,
+  "packets": 21600,
+  "latency_limit_ms": 12.0,
+  "trace_sha256": "b9e1d5e952547f469ff156f036a9f5c8fdd8f3db9684f6015aef914366816002",
+  "elapsed_seconds": 20.15,
+  "sklearn_version": "1.8.0",
+  "numpy_version": "2.3.5",
+  "python": "3.13.5",
+  "note": "Virtual queue regressor supervised by privileged simulator wait values at TRAIN time only"
+}

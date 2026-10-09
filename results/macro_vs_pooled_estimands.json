@@ -1,0 +1,12 @@
+{
+  "macro_fold_AP_LR_minus_HGB": 0.03603422803702272,
+  "pooled_OOF_AP_LR_minus_HGB": 0.008272565074745719,
+  "per_model_macro_fold_AP": {
+    "HGB": 0.9277479718288406,
+    "LR": 0.9637821998658633
+  },
+  "per_model_pooled_OOF_AP": {
+    "HGB": 0.9707328416876639,
+    "LR": 0.9790054067624097
+  }
+}
